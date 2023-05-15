@@ -36,7 +36,7 @@
 </h4>
 
 <div>
-    <button style="height:50px; width:150px" id="playerName" value="submit" onclick="window.location='/start'"> Вперёд за сундучком! </button>
+    <button style="height:50px; width:150px" onclick="window.location='/logic?click=12'" > Вперёд за сундучком! </button>
 </div>
 
 
